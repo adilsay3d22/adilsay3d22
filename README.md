@@ -4,7 +4,7 @@
   <img data-importer="image" height="350" src="https://res.cloudinary.com/dbjjgqhc/image/upload/f_auto,q_auto/profile_image" alt="Md Asad Al Adil Sayed banner" />
 </div>
 
-<h3 align="center">Software Engineering student at Daffodil International University · QA Intern @ Goinnovior · Full-Stack Developer · ICPC 2024 participant · Executive Member, AR/VR &amp; Robotics Labs</h3>
+<h3 align="center">Software Engineering student at Daffodil International University · QA Intern @ Goinnovior · Full-Stack Developer · ICPC 2024 participant </h3>
 
 <img data-importer="image" align="right" height="171" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhtb204ZXR5cXdlNjR1d3A2emtrMGFlZjBxa2trYTVneGJuZ24ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TGcldY54UpQtbTcl4H/giphy.gif" alt="Animated gif" />
 
