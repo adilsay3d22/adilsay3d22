@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! I’m Adil, and yes, it works on my machine. I’ve also checked yours</h2>
+<h2 data-importer="text" align="left">Hi! I’m Adil, and yes, it works on my machine. I’ve also checked yours</h2>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="350" src="https://res.cloudinary.com/dbjjgqhc/image/upload/f_auto,q_auto/profile_image" alt="Md Asad Al Adil Sayed banner" />
