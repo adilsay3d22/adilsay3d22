@@ -1,14 +1,14 @@
 <h2 data-importer="text" align="left">Hi! I’m Adil, and yes, it works on my machine. I’ve also checked yours</h2>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="350" src="https://res.cloudinary.com/dbjjgqhc/image/upload/f_auto,q_auto/profile_image" alt="Md Asad Al Adil Sayed banner" />
+  <img data-importer="image" width="100%" src="./profile-banner.svg" alt="Md Asad Al Adil Sayed: an orange cat with an ID badge catching a bug with a magnifying glass" />
 </div>
 
 <h3 align="center">Software Engineering student at Daffodil International University · QA Intern @ Goinnovior · Full-Stack Developer · ICPC 2024 participant </h3>
 
 <img data-importer="image" align="right" height="171" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhtb204ZXR5cXdlNjR1d3A2emtrMGFlZjBxa2trYTVneGJuZ24ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TGcldY54UpQtbTcl4H/giphy.gif" alt="Animated gif" />
 
-- 🔭 I’m currently working on [Overload, a progressive-overload workout tracker](https://github.com/adilsay3d22/OverLoad)
+- 🔭 I’m currently working on [Overload, a progressive-overload workout tracker](https://github.com/adilsay3d22/OverLoad) and [DIU ERP, a university ERP system](https://github.com/adilsay3d22/diuerp01)
 
 - 🌱 I’m currently learning **AI/ML with a focus on agentic systems, ISTQB-style software testing**
 
@@ -60,5 +60,8 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/adilsay3d22/adilsay3d22/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adilsay3d22/adilsay3d22/snake-output/snake-dark.svg" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/adilsay3d22/adilsay3d22/snake-output/snake.svg" alt="Snake eating my contribution graph" />
+</picture>
 

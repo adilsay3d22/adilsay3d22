@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Adil Sayed, Software Engineering student at DIU and QA intern: illustration of an orange cat with an ID badge catching a bug with a magnifying glass">
+  <defs>
+    <clipPath id="card"><rect width="1280" height="420" rx="24"/></clipPath>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="7" height="7" rx="1" fill="#7CC6CF"/></pattern>
+  </defs>
+
+  <!-- card -->
+  <g clip-path="url(#card)">
+    <rect width="1280" height="420" fill="#FFF9F2"/>
+    <circle cx="0" cy="420" r="150" fill="#FFE9D6"/>
+    <circle cx="1280" cy="0" r="130" fill="#E2F3F8"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="418" rx="23" fill="none" stroke="#EADFD3" stroke-width="2"/>
+
+  <!-- text -->
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <text x="82" y="128" font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="18" fill="#2A9DA8" letter-spacing="3">HELLO, WORLD! I'M</text>
+    <text x="76" y="212" font-size="84" font-weight="800" fill="#1E2547" letter-spacing="2">ADIL SAYED</text>
+    <rect x="82" y="232" width="120" height="8" rx="4" fill="#F08A2C"/>
+    <text x="82" y="282" font-size="23" font-weight="600" fill="#3B4366">Software Engineering Student at DIU · QA Intern</text>
+  </g>
+  <g font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="15" text-anchor="middle" fill="#1F7F89">
+    <rect x="82" y="308" width="136" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="150" y="329">QA &amp; Testing</text>
+    <rect x="230" y="308" width="118" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="289" y="329">Full-Stack</text>
+    <rect x="360" y="308" width="74" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="397" y="329">AI/ML</text>
+    <rect x="446" y="308" width="110" height="32" rx="16" fill="#E3F3F6" stroke="#8FD0D6"/><text x="501" y="329">ICPC 2024</text>
+  </g>
+  <text x="82" y="382" font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#9095AC">// it works on my machine. I've also checked yours.</text>
+
+  <!-- scene backdrop -->
+  <circle cx="960" cy="200" r="168" fill="#CDE8F4"/>
+  <rect x="1068" y="236" width="56" height="28" fill="url(#dots)" opacity=".8"/>
+  <ellipse cx="962" cy="378" rx="230" ry="15" fill="#ECE4DB"/>
+
+  <!-- test checklist card -->
+  <g transform="rotate(-6 816 150)">
+    <rect x="770" y="112" width="92" height="78" rx="10" fill="#fff" stroke="#D7E3EA" stroke-width="2"/>
+    <circle cx="788" cy="132" r="7" fill="#2BB673"/><path d="M784.5 132l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="802" y="129" width="46" height="6" rx="3" fill="#D7E3EA"/>
+    <circle cx="788" cy="151" r="7" fill="#2BB673"/><path d="M784.5 151l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="802" y="148" width="38" height="6" rx="3" fill="#D7E3EA"/>
+    <circle cx="788" cy="170" r="7" fill="#E04848">
+      <animate attributeName="r" values="7;8.5;7" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M785 167l6 6M791 167l-6 6" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <rect x="802" y="167" width="42" height="6" rx="3" fill="#F6C9C9"/>
+  </g>
+
+  <!-- "Bug!" bubble -->
+  <path d="M1048 46h70a8 8 0 0 1 8 8v34a8 8 0 0 1-8 8h-36l-14 14 2-14h-22a8 8 0 0 1-8-8V54a8 8 0 0 1 8-8z" fill="#FFD45C"/>
+  <text x="1083" y="78" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="800" fill="#1E2547" text-anchor="middle">Bug!</text>
+
+  <!-- magnifier catching a bug -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;5 -4;0 0" dur="2.4s" repeatCount="indefinite"/>
+    <circle cx="1100" cy="172" r="25" fill="#fff" fill-opacity=".6"/>
+    <g stroke="#1E2547" stroke-width="2" stroke-linecap="round">
+      <path d="M1091 168l-7-4M1091 175h-8M1091 182l-7 4M1109 168l7-4M1109 175h8M1109 182l7 4M1097 160l-4-6M1103 160l4-6"/>
+    </g>
+    <ellipse cx="1100" cy="176" rx="9" ry="11" fill="#E04848"/>
+    <circle cx="1100" cy="162" r="5" fill="#1E2547"/>
+    <path d="M1100 166v21" stroke="#1E2547" stroke-width="1.6"/>
+    <circle cx="1096" cy="174" r="1.8" fill="#1E2547"/><circle cx="1104" cy="180" r="1.8" fill="#1E2547"/>
+    <circle cx="1100" cy="172" r="25" fill="none" stroke="#1E2547" stroke-width="6"/>
+    <path d="M1118 190l18 18" stroke="#1E2547" stroke-width="9" stroke-linecap="round"/>
+  </g>
+
+  <!-- plant -->
+  <g fill="#6CC3C4">
+    <path d="M772 326C760 296 748 268 734 246c20 18 34 46 42 80z"/>
+    <path d="M772 326c-4-34-2-66 6-96 6 32 4 64-2 96z" fill="#4FA9AE"/>
+    <path d="M774 326c10-28 24-52 44-70-14 24-26 48-38 72z"/>
+    <path d="M770 326c-14-18-30-30-50-38 22 4 40 16 54 36z" fill="#4FA9AE"/>
+  </g>
+  <rect x="750" y="322" width="46" height="12" rx="3" fill="#C93A3A"/>
+  <path d="M754 334h38l-6 40h-26z" fill="#E04848"/>
+
+  <!-- mug -->
+  <g fill="none" stroke="#B5BFCC" stroke-width="3" stroke-linecap="round">
+    <path d="M818 330c-6-7 6-13 0-21M832 330c-6-7 6-13 0-21"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 6;0 -6" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="846" cy="354" r="8" fill="none" stroke="#2E7FB8" stroke-width="5"/>
+  <rect x="810" y="336" width="34" height="38" rx="6" fill="#2E7FB8"/>
+  <text x="827" y="361" font-family="'Cascadia Code',Consolas,monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">QA</text>
+
+  <!-- cat: tail, haunches, body -->
+  <path d="M1062 350c30-4 40-30 26-48" fill="none" stroke="#F2A65A" stroke-width="14" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" values="0 1062 350;-10 1062 350;0 1062 350" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M850 352c0-30 50-34 110-26 60-8 112-4 112 26 0 20-52 24-112 18-60 6-110 2-110-18z" fill="#E8954A"/>
+  <path d="M900 300c2-40 24-64 60-64s58 24 60 64l4 30H896z" fill="#F2A65A"/>
+  <ellipse cx="960" cy="262" rx="28" ry="32" fill="#FFF4E6"/>
+
+  <!-- ID badge -->
+  <path d="M942 226l18 22 18-22" fill="none" stroke="#2E7FB8" stroke-width="3"/>
+  <rect x="949" y="244" width="22" height="17" rx="2" fill="#fff" stroke="#B5BFCC"/>
+  <rect x="949" y="244" width="22" height="5" rx="1.5" fill="#2E7FB8"/>
+  <rect x="953" y="252" width="14" height="2.5" rx="1" fill="#B5BFCC"/>
+
+  <!-- cat head -->
+  <path d="M912 150l6-46 32 24zM1008 150l-6-46-32 24z" fill="#F2A65A"/>
+  <path d="M920 140l3-24 17 14zM1000 140l-3-24-17 14z" fill="#F7B8A8"/>
+  <path d="M910 172l-16 14 16 2-12 14 20-4zM1010 172l16 14-16 2 12 14-20-4z" fill="#F2A65A"/>
+  <ellipse cx="960" cy="172" rx="54" ry="48" fill="#F2A65A"/>
+  <path d="M960 128v14M946 132l3 12M974 132l-3 12" stroke="#D9822F" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="960" cy="194" rx="26" ry="17" fill="#FFF4E6"/>
+  <path d="M930 172a8 6 0 0 0 16 0zM974 172a8 6 0 0 0 16 0z" fill="#1E2547"/>
+  <path d="M928 172h20M972 172h20" stroke="#7A3A10" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="941" cy="175" r="1.5" fill="#fff"/><circle cx="985" cy="175" r="1.5" fill="#fff"/>
+  <path d="M955 186h10l-5 6z" fill="#E58C8C"/>
+  <path d="M960 192q-5 7-10 2M960 192q5 7 10 2" fill="none" stroke="#7A3A10" stroke-width="2" stroke-linecap="round"/>
+  <path d="M936 192l-32-4M936 198l-30 3M984 192l32-4M984 198l30 3" stroke="#C98A55" stroke-width="1.6" stroke-linecap="round"/>
+
+  <!-- laptop (back of lid) with stickers, paws resting on top -->
+  <rect x="886" y="262" width="148" height="96" rx="10" fill="#1E2347"/>
+  <rect x="892" y="268" width="136" height="84" rx="7" fill="#262C5A"/>
+  <circle cx="960" cy="312" r="10" fill="#141834"/>
+  <circle cx="918" cy="330" r="12" fill="#2BB673"/>
+  <path d="M912 330l4 4 8-8" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="rotate(-8 1000 296)">
+    <rect x="980" y="286" width="40" height="20" rx="4" fill="#FFD45C"/>
+    <text x="1000" y="301" font-family="'Cascadia Code',Consolas,monospace" font-size="12" font-weight="700" fill="#1E2547" text-anchor="middle">&lt;/&gt;</text>
+  </g>
+  <rect x="876" y="354" width="168" height="8" rx="4" fill="#151936"/>
+  <ellipse cx="928" cy="262" rx="14" ry="9" fill="#F2A65A"/>
+  <ellipse cx="992" cy="262" rx="14" ry="9" fill="#F2A65A"/>
+  <path d="M922 258v6M928 257v7M934 258v6M986 258v6M992 257v7M998 258v6" stroke="#D9822F" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
