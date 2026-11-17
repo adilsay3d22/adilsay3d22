@@ -1,7 +1,7 @@
 <h2 data-importer="text" align="left">Hi! I’m Adil, and yes, it works on my machine. I’ve also checked yours</h2>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100%" src="./profile-banner.svg" alt="Md Asad Al Adil Sayed: an orange cat with an ID badge catching a bug with a magnifying glass" />
+  <img data-importer="image" width="100%" src="./banner.svg" alt="Md Asad Al Adil Sayed: a developer in a hoodie with an ID badge at a laptop, catching a bug with a magnifying glass" />
 </div>
 
 <h3 align="center">Software Engineering student at Daffodil International University · QA Intern @ Goinnovior · Full-Stack Developer · ICPC 2024 participant </h3>
